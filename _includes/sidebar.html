@@ -1,10 +1,19 @@
-<div class="sidebar">
-    <h1 class="site-header">{{ site.title }}</h1>
-    {% assign author = site.github_username -%}
-    <a href="{{ '/' | absolute_url }}">{% avatar user=author size=200 -%}</a>
-    <a href="{{ author | prepend: 'https://github.com/' }}"><h1>{{ author }}</h1></a>
-    <h4>{{ site.description }}</h4><br>
-    <h2><a href="{{ '/about.html' | absolute_url }}">About</a></h2>
-    <h2><a href="{{ '/blog/' | absolute_url }}">Blogs</a></h2>
-    <h2><a href="{{ '/feed.xml' | absolute_url }}">Rss feed</a></h2>
-</div>
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src="{{ s.image | relative_url }}"
+             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
+  </div>
+{% endif %}
