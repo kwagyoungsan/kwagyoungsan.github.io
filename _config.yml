@@ -19,13 +19,13 @@ locale                   : "ko-KR"
 title                    : "프로그래밍 메모장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "응애개발자"
+name                     : "곽영산"
 description              : "여러 가지 프로그래밍 메모"
 url                      : "https://kwagyoungsan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kwagyoungsan/kwagyoungsan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/IMG_3243.JPG"
+logo                     : #"/assets/images/IMG_3243.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "미정"
+  name             : "응애개발자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "여러가지 프로그래밍 메모"
-  location         : "Anywhere"
+  location         : #"Anywhere"
   email            :
   links:
     - label: "Email"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/kwagyoungsan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/0_moun"
 
 # Site Footer
 footer:
