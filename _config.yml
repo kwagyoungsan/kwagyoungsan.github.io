@@ -20,7 +20,7 @@ title                    : "프로그래밍 메모장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "곽영산"
-description              : "여러 가지 프로그래밍 메모"
+description              : "이렇게 하다 보면 언젠가 잘하겠죠"
 url                      : "https://kwagyoungsan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://kwagyoungsan/kwagyoungsan.github.io"
@@ -218,9 +218,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 4 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
