@@ -10,10 +10,6 @@ main:
      url: /categories/
    - title: "Tags"
      url: /tags/
-   - title: "Network"
-     uri: /categories/network/
-   - title: "Algorithm"
-     uri: /categories/algorithm/
 
   # - title: "Sitemap"
   #   url: /sitemap/

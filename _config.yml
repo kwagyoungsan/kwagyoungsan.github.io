@@ -115,7 +115,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://kwagyoungsan.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/kwagyoungsan"
+      url: "https://github.com/kwagyoungsan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/0_moun"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/kwagyoungsan"
+      url: "https://github.com/kwagyoungsan"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
