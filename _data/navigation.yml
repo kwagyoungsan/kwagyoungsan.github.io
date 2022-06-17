@@ -4,8 +4,8 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Introduce"
      url: /about/
-   - title: "Home"
-     url: https://kwagyoungsan.github.io
+#   - title: "Home"
+#     url: https://kwagyoungsan.github.io
    - title: "Category"
      url: /categories/
    - title: "Tags"
