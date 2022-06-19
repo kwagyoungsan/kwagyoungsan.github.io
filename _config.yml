@@ -128,7 +128,7 @@ author:
       url: "https://github.com/kwagyoungsan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/0_moun"
+      #  url: "https://instagram.com/0_moun"
 
 # Site Footer
 footer:
