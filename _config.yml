@@ -27,6 +27,7 @@ repository               : "kwagyoungsan/kwagyoungsan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/IMG_3243.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+future: true
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -112,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "youngsan.dev@gmail.com"
+#      url: "youngsan.dev@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://kwagyoungsan.github.io"
@@ -127,7 +128,7 @@ author:
       url: "https://github.com/kwagyoungsan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/0_moun"
+       url: "https://instagram.com/0_moun"
 
 # Site Footer
 footer:
