@@ -13,7 +13,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Android Structure" %}
-                        <li><a href="/categories/cpp" class="">자료구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/and" class="">자료구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -26,7 +26,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CodeUp" %}
-                        <li><a href="/categories/cpp" class="">CodeUp ({{category[1].size}})</a></li>
+                        <li><a href="/categories/algo" class="">CodeUp ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -34,13 +34,25 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "BaekJoon" %}
-                        <li><a href="/categories/cpp" class="">BaekJoon Online Judge ({{category[1].size}})</a></li>
+                        <li><a href="/categories/algo" class="">BaekJoon Online Judge ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
       </li>
 
 
+<li>
+        <span class="nav__sub-title">Etc</span>
+        
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Android Structure" %}
+                        <li><a href="/categories/etc" class="">Etc ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+           
+      </li>
 
       <li>	
             <br>      
