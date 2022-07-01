@@ -1,5 +1,5 @@
 ---
-title: "Android"
+title: "Android Structure"
 layout: archive
 permalink: categories/android
 author_profile: true
