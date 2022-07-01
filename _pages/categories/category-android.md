@@ -1,7 +1,7 @@
 ---
 title: "Android Structure"
 layout: archive
-permalink: categories/android
+permalink: categories/andstr
 author_profile: true
 sidebar_main: true
 ---
