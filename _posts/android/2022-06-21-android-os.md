@@ -65,5 +65,5 @@ last_modified_at: 2022-06-21
 - 애플리케이션(Application)
 
   - 운영체제에서 실행되는 모든 소프트웨어     
-
+<br>
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right} 
