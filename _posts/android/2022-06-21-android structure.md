@@ -2,16 +2,14 @@
 title:  "[Android] 안드로이드 자료구조" 
 
 categories:
-
   - Android Structure
-    tags:
+tags:
   - [Android, Android Structure]
 
 toc: true
 toc_sticky: true
 
 date: 2022-06-21
-
 last_modified_at: 2022-06-21
 ---
 
