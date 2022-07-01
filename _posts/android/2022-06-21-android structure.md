@@ -3,7 +3,7 @@ title:  "[Android] 안드로이드 자료구조"
 
 categories:
 
-  - Android
+  - Android Structure
     tags:
   - [Android, Android Structure]
 
