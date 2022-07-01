@@ -1,7 +1,7 @@
 ---
-title: "C++ 프로그래밍"
+title: "Android"
 layout: archive
-permalink: categories/cpp
+permalink: categories/android
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.Cpp %}
+{% assign posts = site.categories.Android %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
