@@ -1,7 +1,7 @@
 ---
-title: "C++ 게임 만들기 연습 문제 패키지"
+title: "알고리즘"
 layout: archive
-permalink: categories/cpp-games
+permalink: categories/algorithm
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['C++ games'] %}
+{% assign posts = site.categories['Algorithm'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

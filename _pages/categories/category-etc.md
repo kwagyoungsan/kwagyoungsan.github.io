@@ -1,7 +1,7 @@
 ---
-title: "C++ Boost.Asio 네트워크 프로그래밍"
+title: "Etc"
 layout: archive
-permalink: categories/cpp-network
+permalink: categories/etc
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Cpp Network'] %}
+{% assign posts = site.categories['Etc'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
