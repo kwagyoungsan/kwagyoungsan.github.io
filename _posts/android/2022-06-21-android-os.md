@@ -1,10 +1,10 @@
 ---
-title:  "[Android] 안드로이드 자료구조" 
+title:  "[Android] 안드로이드 운영체제(OS)" 
 
 categories:
-  - Android Structure
+  - OS
 tags:
-  - [Android, Android Structure]
+  - [OS, Android]
 
 toc: true
 toc_sticky: true
