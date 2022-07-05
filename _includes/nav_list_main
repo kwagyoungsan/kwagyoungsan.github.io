@@ -119,6 +119,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Vocabulary" %}
+                        <li><a href="/categories/voca" class="">Vocabulary ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
            
       </li>
 
