@@ -2,7 +2,7 @@
 title:  "[Android] 안드로이드 운영체제(OS)" 
 
 categories:
-  - OS
+  - Android OS
 tags:
   - [OS, Android]
 
