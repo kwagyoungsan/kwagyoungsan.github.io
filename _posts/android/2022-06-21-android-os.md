@@ -4,7 +4,7 @@ title:  "[Android] 안드로이드 운영체제(OS)"
 categories:
   - Android OS
 tags:
-  - [OS, Android]
+  - [OS, Android OS]
 
 toc: true
 toc_sticky: true
