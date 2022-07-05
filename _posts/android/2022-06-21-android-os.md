@@ -4,13 +4,13 @@ title:  "[Android] 안드로이드 운영체제(OS)"
 categories:
   - Android OS
 tags:
-  - [Android OS]
+  - [OS, Android OS]
 
 toc: true
 toc_sticky: true
 
 date: 2022-06-21
-last_modified_at: 2022-06-21
+last_modified_at: 2022-06-22
 ---
 
 ## [Android Structure] 안드로이드 자료구조
