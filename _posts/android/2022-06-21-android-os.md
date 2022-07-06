@@ -1,5 +1,5 @@
 ---
-title:  "[Android] 안드로이드 운영체제(OS)" 
+title:  "[Android] 안드로이드 운영체제(OS)의 구조" 
 
 categories:
   - Android OS
@@ -13,7 +13,7 @@ date: 2022-06-21
 last_modified_at: 2022-06-22
 ---
 
-## [Android Structure] 안드로이드 자료구조
+## [Android Structure] 안드로이드 운영체제(OS)의 구조
 
 ![Managers](https://user-images.githubusercontent.com/61777583/176137159-810f4096-3e71-4a3b-a05f-669559036ab4.png)
 
