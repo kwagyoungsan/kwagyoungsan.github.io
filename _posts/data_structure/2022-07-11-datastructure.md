@@ -37,6 +37,8 @@ last_modified_at: 2022-07-11
 
 1. 행렬(matrix)
 - 수 또는 다항식 등을 직사각형 모양으로 배열한 것
+<img width="239" alt="스크린샷 2022-07-11 오후 2 13 15" src="https://user-images.githubusercontent.com/61777583/178193350-9af3ff05-cf05-4f5e-8335-656a42b912f1.png">
+
 
 2. 레코드(record, struct)
 - 각기 다른 자료형에 속할 수 있는 필드의 모임
@@ -60,6 +62,7 @@ struct date {
 ***
 
 ### 자료구조의 종류
+<img width="1075" alt="자료구조-종류" src="https://user-images.githubusercontent.com/61777583/178193398-201f9a1c-0207-4e6b-81eb-b52ac7507159.png">
 
 #### 필수 자료구조
 1. 배열
