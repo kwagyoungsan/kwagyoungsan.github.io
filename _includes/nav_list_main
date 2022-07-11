@@ -60,8 +60,13 @@
 
       <li>
         <span class="nav__sub-title">Data Structure</span>
-        
-         <!--  -->
+        <ul>
+            {% for category in site.categories %}
+                {% if category[0] == "Data Structure" %}
+                    <li><a href="/categories/datastr" class="">자료구조 ({{category[1].size}})</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>  
       </li>
 
       <li>
