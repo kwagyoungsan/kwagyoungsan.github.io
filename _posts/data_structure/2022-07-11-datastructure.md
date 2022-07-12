@@ -36,7 +36,7 @@ last_modified_at: 2022-07-11
 ### 자료구조의 기초 단위  🔎
 
 1. 행렬(matrix)
-- 수 또는 다항식 등을 직사각형 모양으로 배열한 것
+- 수 또는 다항식 등을 직사각형 모양으로 배열한 것 <br>
 <img width="239" alt="스크린샷 2022-07-11 오후 2 13 15" src="https://user-images.githubusercontent.com/61777583/178193350-9af3ff05-cf05-4f5e-8335-656a42b912f1.png">
 
 

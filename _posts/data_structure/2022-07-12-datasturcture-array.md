@@ -25,10 +25,10 @@ last_modified_at: 2022-07-12
 
 ## 배열의 표현 🔎
 
-ex) C
+ex) C <br>
 ![Elements](https://user-images.githubusercontent.com/61777583/178424917-d54d2762-e4ba-4c16-9953-6fec97c5cf8d.png)
 
-그림으로 표현한 경우 ↓
+그림으로 표현한 경우 ↓ <br>
 ![elements](https://user-images.githubusercontent.com/61777583/178424974-f7452245-f050-4753-aca6-a2b2a4e56faa.png)
 
 
