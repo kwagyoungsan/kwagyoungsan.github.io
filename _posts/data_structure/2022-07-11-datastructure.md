@@ -75,7 +75,7 @@ struct date {
 8. 힙
 
 
-출처
+###### Reference
 - https://ko.wikipedia.org/wiki/%ED%96%89%EB%A0%AC
 - https://andrew0409.tistory.com/148
 - https://bnzn2426.tistory.com/115

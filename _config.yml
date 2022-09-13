@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : " 프로그래밍 메모장 (미완성)"
+title                    : " 프로그래밍 메모장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "곽영산"
@@ -93,7 +93,7 @@ social:
 
 # Site Author
 author:
-  name             : "응애개발자"
+  name             : "곽영산"
   avatar           : "https://user-images.githubusercontent.com/61777583/174553882-01b1460d-5269-4756-ac6e-086b7a05e56f.jpg"
   bio              : "이렇게 하다 보면 언젠가는 잘하겠죠"
   #location         : "Seoul, South Korea"
