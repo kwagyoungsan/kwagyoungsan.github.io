@@ -137,7 +137,7 @@ last_modified_at: 2022-09-13
   2. Context Switching 발생 시 Stack 영역만 변경을 진행하면 된다.
 <br>
   
-  #### Context란❓
+#### Context란❓
   - 사용자와 다른 사용자, 사용자와 시스템 또는 디바이스 간의 상호작용에 영향을 미치는 사람, 장소, 개체 등의 현재 상황(상태)을 규정하는 정보들
     - CPU가 해당 Process를 실행하기 위한 해당 Process의 정보들
 
