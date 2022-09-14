@@ -1,5 +1,5 @@
 ---
-title:  "[Data Sturcture] 자료구조를 알아보자 !" 
+title:  "[Data Sturcture] 자료구조를 알아보자❗️" 
 
 categories:
   - Data Structure
