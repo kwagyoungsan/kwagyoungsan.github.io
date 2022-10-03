@@ -16,7 +16,7 @@ last_modified_at: 2022-09-16
 ## 큐(Queue)란? 🔎
 
 ### 1. 정의 🔎
-
+- FIFO (First In First Out) 구조
 
 <br>
 
