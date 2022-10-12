@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-20
-last_modified_at: 2022-09-20
+last_modified_at: 2022-10-13
 ---
 ## [TodoList]  
 
@@ -19,8 +19,8 @@ last_modified_at: 2022-09-20
     - ~~연결 리스트(Linked List)~~
     - ~~스택(Stack)~~
     - ~~큐(Queue)~~
-    - 해시 테이블(Hash Table)
-    - 그래프(Graph)
+    - ~~해시 테이블(Hash Table)~~
+    - ~~그래프(Graph)~~
     - 힙(Heap)
     - 트리(Tree)
 
