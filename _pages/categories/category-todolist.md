@@ -1,5 +1,5 @@
 ---
-title: "TodoList"
+title: "Todo List"
 layout: archive
 permalink: categories/todo
 author_profile: true
