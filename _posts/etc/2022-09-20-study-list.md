@@ -21,13 +21,15 @@ last_modified_at: 2022-10-13
     - ~~큐(Queue)~~
     - ~~해시 테이블(Hash Table)~~
     - ~~그래프(Graph)~~
-    - 힙(Heap)
-    - 트리(Tree)
+    - ~~힙(Heap)~~
+    - ~~트리(Tree)~~
 
-- 알고리즘
+- 알고리즘 (코딩 테스트)
     - 백준
         - https://www.acmicpc.net/workbook/view/4349
             - 단기간 성장
+                - Start Date : 2022-10-25
+                - End Date : 
         - https://www.acmicpc.net/workbook/view/2771
             - 삼성 A형 기출 문제
         - https://www.acmicpc.net/workbook/view/1983
