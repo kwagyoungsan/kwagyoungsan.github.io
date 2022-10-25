@@ -53,8 +53,27 @@ last_modified_at: 2022-10-25
     - MVC
     - MVP
     - MVVM
+- 서버
+- Android
+- iOS
+- Window
+- Mac
+- 정보 보안
+    1. 프로그래밍 언어 : python, c
+    2. 웹 해킹 : HTML, JavaScript, PHP, JSP, Nodejs 		
+    - (wargame.kr 에서 풀어보면 좋음)
+	- 강좌, OWASP10, 행정안전부
+    3. 네트워크 해킹 : Socket, OSI 7 
+	- ARP Spoofing(Pcap) -> Https, 수학(정수론) -> RSA 암호 
+    4. 시스템 : 컴퓨터 구조, 운영체제	
+    - (pwable.kr 에서 풀어보면 좋음)
+	- 리눅스, BoF, Fuzzing, 메모리해킹(동적분석), 역어셈플러(IDA Pro(정적 분석에 활용됨), Chidra)
+    5. 해킹방어대회(CTF)
+	- 영어, 기출 문제
+<br>
+<br>
 
-<br>
-<br>
+- 개발자 로드맵
+    - https://roadmap.sh/
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right} 
