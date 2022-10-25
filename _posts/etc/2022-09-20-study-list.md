@@ -2,7 +2,7 @@
 title:  "[TodoList] 나만의 프로그래밍 로드맵 (추가 중)" 
 
 categories:
-  - TodoList
+  - Todo List
 tags:
   - [Programming, TodoList]
 
