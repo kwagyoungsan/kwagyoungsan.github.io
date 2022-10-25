@@ -1,7 +1,7 @@
 ---
-title: "Baekjoon"
+title: "TodoList"
 layout: archive
-permalink: categories/baekjoon
+permalink: categories/TodoList
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Baekjoon'] %}
+{% assign posts = site.categories['To do List'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
