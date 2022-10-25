@@ -1,7 +1,7 @@
 ---
 title: "TodoList"
 layout: archive
-permalink: categories/TodoList
+permalink: categories/todo
 author_profile: true
 sidebar_main: true
 ---

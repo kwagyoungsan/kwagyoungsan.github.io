@@ -128,6 +128,14 @@
                 {% endfor %}
             </ul>
            
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "TodoList" %}
+                        <li><a href="/categories/todo" class="">Todo List ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
       </li>
 
       <li>	
