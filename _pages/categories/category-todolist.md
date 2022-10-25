@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Todo List'] %}
+{% assign posts = site.categories['TodoList'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

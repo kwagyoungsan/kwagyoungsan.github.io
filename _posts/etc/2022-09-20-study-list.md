@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-20
-last_modified_at: 2022-10-13
+last_modified_at: 2022-10-25
 ---
 ## [TodoList]  
 
@@ -28,7 +28,7 @@ last_modified_at: 2022-10-13
     - 백준
         - https://www.acmicpc.net/workbook/view/4349
             - 단기간 성장
-                - Start Date : 2022-10-25
+                - Start Date : 
                 - End Date : 
         - https://www.acmicpc.net/workbook/view/2771
             - 삼성 A형 기출 문제
