@@ -14,6 +14,66 @@ last_modified_at: 2022-10-25
 ---
 ## [TodoList]  
 
+ - Back-end
+    - Computer Science(컴퓨터 공학 기초)
+        - Process와 Thread
+        - Cpu Scheduling
+        - Synchronize(동기화)와 Deadlock
+        - Security
+        - 자료구조 / 알고리즘 (꾸준히)
+    - Java
+        - Java와 JVM의 기초
+        - 변수
+        - 연산자
+        - 조건, 반복문
+        - 배열
+        - 객체지향 프로그래밍(오버로딩, 오버라이딩)
+        - Exception Handling
+        - Java 자료 구조 Collection
+        - Generic, Enum
+        - Thread
+        - Lamda & Stream
+        - Annotation
+        - IO 입출력
+        - Network (소켓 프로그래밍)
+        - JVM 고급
+        - 주요 디자인 패턴 (MVC, 싱글톤 필수, 어댑터 등)
+    - Database
+        - Database 이론
+        - Data CRUD
+        - Data Relation (join, 조건문, Dynamic Query 나누어서 사용)
+        - Table
+        - View
+        - CUI 기반의 실습 (Pure Java 기반 CRUD)
+        - Index
+    - Spring (Boot MVC)
+        - Spring이란 (AOP, IDC, DI 등)
+        - 웹 개발과 Rest API
+        - Spring Boot
+        - CURD API 만들어보기 (with lombok)
+        - Mybatis (Database 연동, 리팩토링)
+        - Exception Handling
+        - 외부 API 연동 (Rest template, Feign)
+        - Logging
+        - 트랜잭션
+        - Test code
+    - JPA
+        - ORM 소개 (기존 방식과의 차이)
+        - 영속성 관리 (JPA의 동작 원리)
+        - Entity
+        - Entity의 Relation
+        - Proxy
+        - JPQL
+    - Security, Spring Cloud Gateway
+        - Oauth2
+        - JWT
+        - Cluster 이론
+        - Feign
+    
+        
+
+
+
  - 자료구조
     - ~~배열(Array)~~
     - ~~연결 리스트(Linked List)~~
@@ -75,5 +135,9 @@ last_modified_at: 2022-10-25
 
 - 개발자 로드맵
     - https://roadmap.sh/
+
+
+###### References
+- https://zero-base.co.kr/event/media_BE_school_roadmap
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right} 
