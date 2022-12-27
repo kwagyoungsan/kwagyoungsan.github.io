@@ -17,7 +17,8 @@ last_modified_at: 2022-10-25
 - 전체 도메인 네임
 - 도메인 전체 이름을 표기하는 방식을 의미 | 호스트와 도메인을 함께 명시하여 전체 경로를 모두 표기하는 것
 - 전체 주소 도메인 네임의 레이블의 계층
-  ￼
+  ￼![en wikipedia org](https://user-images.githubusercontent.com/61777583/209635776-1f8d21d8-7a4c-459e-ae54-1029b0621acc.png)
+
 - 예제
     - www.naver.com
         - www -> host
