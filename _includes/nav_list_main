@@ -71,9 +71,13 @@
 
       <li>
         <span class="nav__sub-title">Network</span>
-        
-          <!--  -->
-
+        <ul>
+            {% for category in site.categories %}
+                 {% if category[0] == "Network" %}
+                       <li><a href="/categories/network" class="">네트워크 ({{category[1].size}})</a></li>
+                 {% endif %}
+            {% endfor %}
+        </ul>
       </li>
 
       <li>
