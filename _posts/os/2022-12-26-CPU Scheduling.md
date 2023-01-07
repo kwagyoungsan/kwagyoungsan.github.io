@@ -53,7 +53,7 @@ last_modified_at: 2023-01-01
 | HRN | Highest Response Next <br> 긴 작업과 짧은 공정성을 고려한 방식 <br> Response Ratio가 높은 것을 선택 (Response Ratio = (대기시간 + 처리시간) / 처리시간) <br> SJF의 단점을 보완하여 Starvation 현상 방지 <br> 짧은 작업이나 대기 시간이 긴 작업은 우선 순위가 높아짐 |
 
 
-
+ 
 
 
 ###### Reference <br>
