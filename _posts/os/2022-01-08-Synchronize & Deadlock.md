@@ -161,6 +161,7 @@ do {
   - 오래 기다린 Process의 우선 순위를 높인다.
   - 우선 순위가 아닌 요청을 순서대로 처리하는 큐를 사용한다.
 
+(UI 정리 필요)
 
 ###### Reference
 - https://mingmi-programming.tistory.com/79
