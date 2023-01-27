@@ -17,9 +17,8 @@ last_modified_at: 2022-10-25
  - Back-end
     - Computer Science(컴퓨터 공학 기초)
         - ~~Process와 Thread~~
-        - CPU Scheduling
-        - Synchronize(동기화)와 Deadlock
-        - Security
+        - ~~CPU Scheduling~~
+        - ~~Synchronize(동기화)와 Deadlock~~
         - 자료구조 / 알고리즘 (꾸준히)
     - Java
         - Java와 JVM의 기초
