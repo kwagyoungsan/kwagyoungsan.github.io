@@ -21,7 +21,7 @@ last_modified_at: 2022-10-25
         - ~~Synchronize(동기화)와 Deadlock~~
         - 자료구조 / 알고리즘 (꾸준히)
     - Java
-        - Java와 JVM의 기초
+        - ~~Java와 JVM의 기초~~
         - 변수
         - 연산자
         - 조건, 반복문
