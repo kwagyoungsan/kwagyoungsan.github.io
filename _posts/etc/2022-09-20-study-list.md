@@ -87,7 +87,7 @@ last_modified_at: 2022-10-25
     - 백준
         - https://www.acmicpc.net/workbook/view/4349
             - 단기간 성장
-                - Start Date : 
+                - Start Date : 2023-02-01
                 - End Date : 
         - https://www.acmicpc.net/workbook/view/2771
             - 삼성 A형 기출 문제
