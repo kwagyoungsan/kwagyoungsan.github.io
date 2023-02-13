@@ -22,20 +22,19 @@ last_modified_at: 2022-10-25
         - 자료구조 / 알고리즘 (꾸준히)
     - Java
         - ~~Java와 JVM의 기초~~
-        - 변수
+        - ~~변수~~
         - 연산자
-        - 조건, 반복문
+        - ~~조건, 반복문~~
         - 배열
         - 객체지향 프로그래밍(오버로딩, 오버라이딩)
         - Exception Handling
         - Java 자료 구조 Collection
         - Generic, Enum
-        - Thread
+        - ~~Thread~~
         - Lamda & Stream
         - Annotation
         - IO 입출력
         - Network (소켓 프로그래밍)
-        - JVM 고급
         - 주요 디자인 패턴 (MVC, 싱글톤 필수, 어댑터 등)
     - Database
         - Database 이론
@@ -68,10 +67,6 @@ last_modified_at: 2022-10-25
         - JWT
         - Cluster 이론
         - Feign
-    
-        
-
-
 
  - 자료구조
     - ~~배열(Array)~~
@@ -112,6 +107,7 @@ last_modified_at: 2022-10-25
     - MVC
     - MVP
     - MVVM
+    - MVW
 - 서버
 - Android
 - iOS
