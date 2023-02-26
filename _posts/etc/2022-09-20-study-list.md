@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-20
-last_modified_at: 2022-10-25
+last_modified_at: 2023-02-26
 ---
 ## [TodoList]  
 
@@ -55,13 +55,6 @@ last_modified_at: 2022-10-25
         - Logging
         - 트랜잭션
         - Test code
-    - JPA
-        - ORM 소개 (기존 방식과의 차이)
-        - 영속성 관리 (JPA의 동작 원리)
-        - Entity
-        - Entity의 Relation
-        - Proxy
-        - JPQL
     - Security, Spring Cloud Gateway
         - Oauth2
         - JWT
