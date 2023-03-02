@@ -1,7 +1,7 @@
 ---
-title: "iOS OS"
+title: "iOS"
 layout: archive
-permalink: categories/iosos
+permalink: categories/ios
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['iOS OS'] %}
+{% assign posts = site.categories['iOS'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

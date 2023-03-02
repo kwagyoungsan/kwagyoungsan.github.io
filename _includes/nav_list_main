@@ -13,7 +13,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Android Structure" %}
-                        <li><a href="/categories/andstr" class="">자료구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/andstr" class="">[Android] 자료구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -21,7 +21,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Android OS" %}
-                        <li><a href="/categories/andos" class="">운영체제(OS) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/andos" class="">[Android] 운영체제(OS) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -29,7 +29,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Android Design Pattern" %}
-                        <li><a href="/categories/anddes" class="">디자인 패턴 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/anddes" class="">[Android] 디자인 패턴 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -38,11 +38,18 @@
 
       <li>
         <span class="nav__sub-title">iOS</span>
-        
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "iOS" %}
+                        <li><a href="/categories/iosstr" class="">iOS ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "iOS Structure" %}
-                        <li><a href="/categories/iosstr" class="">자료구조 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/iosstr" class="">[iOS] 자료구조 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -50,7 +57,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "iOS OS" %}
-                        <li><a href="/categories/iosos" class="">운영체제(OS) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/iosos" class="">[iOS] 운영체제(OS) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>         
