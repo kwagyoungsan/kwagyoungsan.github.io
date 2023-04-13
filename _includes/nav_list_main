@@ -176,30 +176,3 @@
       </li>
   </ul>
 </nav>
-
-
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Vocabulary" %}
-                        <li><a href="/categories/voca" class="">Vocabulary ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-           
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "TodoList" %}
-                        <li><a href="/categories/todo" class="">Todo List ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-
-      </li>
-
-      <li>	
-            <br>      
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwagyoungsan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-      </li>
-  </ul>
-</nav>
-
