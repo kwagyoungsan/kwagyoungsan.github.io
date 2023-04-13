@@ -1,10 +1,11 @@
 ---
-title:  "[Data Sturcture] 스택(Stack)에 대해 알아보자❗️" 
+title:  "[Data Sturcture] 스택(Stack)에 대해 알아보자❗️"
 
 categories:
-  - Data Structure
-tags:
-  - [Stack, Data Structure]
+
+- Data Structure
+  tags:
+- [Stack, Data Structure]
 
 toc: true
 toc_sticky: true
@@ -16,8 +17,9 @@ last_modified_at: 2022-09-14
 ## 스택(Stack)이란? 🔎
 
 ### 1. 정의 🔎
+
 - 한 쪽 끝에서만 자료를 넣거나 뺄 수 있는 LIFO(Last In First Out) 형식의 선형 구조
-![image](https://user-images.githubusercontent.com/61777583/190069028-cb0f64e1-6c5a-4404-844e-c20d529bf7de.png)
+  ![image](https://user-images.githubusercontent.com/61777583/190069028-cb0f64e1-6c5a-4404-844e-c20d529bf7de.png)
 
 <br>
 
@@ -26,6 +28,7 @@ last_modified_at: 2022-09-14
 <br>
 
 ### 2. 연산 🔎
+
 - pop()
     - 스택에서 가장 위에 있는 항목을 제거한다.
 - push(item)
@@ -42,6 +45,7 @@ last_modified_at: 2022-09-14
 <br>
 
 ### 3. 구현 예제 🔎
+
 ```C
 /* Stack Example */
 
@@ -145,6 +149,7 @@ int printstack(void) {
 <br>
 
 ### 4. 사용 사례 🔎
+
 - 재귀 알고리즘
     - 재귀적으로 함수를 호출해야 하는 경우에 임시 데이터를 스택에 넣어준다.
     - 재귀함수를 빠져 나와 퇴각 검색(backtrack)을 할 때는 스택에 넣어 두었던 임시 데이터를 빼줘야 한다.
@@ -163,9 +168,8 @@ int printstack(void) {
 <br>
 
 ###### Reference
+
 - https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D
 - https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
-
-
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right} 

@@ -1,10 +1,11 @@
 ---
-title:  "[TodoList] 나만의 프로그래밍 로드맵 (추가 중)" 
+title:  "[TodoList] 나만의 프로그래밍 로드맵 (추가 중)"
 
 categories:
-  - TodoList
-tags:
-  - [Programming, TodoList]
+
+- TodoList
+  tags:
+- [Programming, TodoList]
 
 toc: true
 toc_sticky: true
@@ -12,9 +13,10 @@ toc_sticky: true
 date: 2022-09-20
 last_modified_at: 2023-02-26
 ---
-## [TodoList]  
 
- - Back-end
+## [TodoList]
+
+- Back-end
     - Computer Science(컴퓨터 공학 기초)
         - ~~Process와 Thread~~
         - ~~CPU Scheduling~~
@@ -61,7 +63,7 @@ last_modified_at: 2023-02-26
         - Cluster 이론
         - Feign
 
- - 자료구조
+- 자료구조
     - ~~배열(Array)~~
     - ~~연결 리스트(Linked List)~~
     - ~~스택(Stack)~~
@@ -76,7 +78,7 @@ last_modified_at: 2023-02-26
         - https://www.acmicpc.net/workbook/view/4349
             - 단기간 성장
                 - Start Date : 2023-02-01
-                - End Date : 
+                - End Date :
         - https://www.acmicpc.net/workbook/view/2771
             - 삼성 A형 기출 문제
         - https://www.acmicpc.net/workbook/view/1983
@@ -108,24 +110,31 @@ last_modified_at: 2023-02-26
 - Mac
 - 정보 보안
     1. 프로그래밍 언어 : python, c
-    2. 웹 해킹 : HTML, JavaScript, PHP, JSP, Nodejs 		
+    2. 웹 해킹 : HTML, JavaScript, PHP, JSP, Nodejs
+
     - (wargame.kr 에서 풀어보면 좋음)
-	- 강좌, OWASP10, 행정안전부
-    3. 네트워크 해킹 : Socket, OSI 7 
-	- ARP Spoofing(Pcap) -> Https, 수학(정수론) -> RSA 암호 
-    4. 시스템 : 컴퓨터 구조, 운영체제	
+    - 강좌, OWASP10, 행정안전부
+
+    3. 네트워크 해킹 : Socket, OSI 7
+
+    - ARP Spoofing(Pcap) -> Https, 수학(정수론) -> RSA 암호
+
+    4. 시스템 : 컴퓨터 구조, 운영체제
+
     - (pwable.kr 에서 풀어보면 좋음)
-	- 리눅스, BoF, Fuzzing, 메모리해킹(동적분석), 역어셈플러(IDA Pro(정적 분석에 활용됨), Chidra)
+    - 리눅스, BoF, Fuzzing, 메모리해킹(동적분석), 역어셈플러(IDA Pro(정적 분석에 활용됨), Chidra)
+
     5. 해킹방어대회(CTF)
-	- 영어, 기출 문제
-<br>
-<br>
+
+    - 영어, 기출 문제
+      <br>
+      <br>
 
 - 개발자 로드맵
     - https://roadmap.sh/
 
-
 ###### References
+
 - https://zero-base.co.kr/event/media_BE_school_roadmap
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right} 
