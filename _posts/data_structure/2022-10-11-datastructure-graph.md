@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 그래프(Graph)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Graph, Data Structure]
 
 toc: true

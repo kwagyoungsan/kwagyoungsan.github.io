@@ -2,9 +2,8 @@
 title:  "[Algorithm] 1851 : [기초-재귀함수] 재귀로 * n개 한 줄로 출력하기"
 
 categories:
-
 - CodeUp
-  tags:
+tags:
 - [Algorithm, CodeUp, Recursion]
 
 toc: true

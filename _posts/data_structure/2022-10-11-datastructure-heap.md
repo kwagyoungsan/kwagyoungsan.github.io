@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 힙(Heap)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Heap, Data Structure]
 
 toc: true

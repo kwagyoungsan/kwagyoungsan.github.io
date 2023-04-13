@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 스택(Stack)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Stack, Data Structure]
 
 toc: true

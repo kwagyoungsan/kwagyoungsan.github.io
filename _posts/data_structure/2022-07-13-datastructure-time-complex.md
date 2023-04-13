@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 시간 복잡도(Time Complex)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Time Complex, Data Structure]
 
 toc: true

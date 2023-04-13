@@ -2,9 +2,8 @@
 title:  "[OS] 프로세스(Process)와 스레드(Thread)의 차이점"
 
 categories:
-
 - OS
-  tags:
+tags:
 - [Thread, Process, Multi Process, Multi Thread, Thread Safe, Context Switching, OS]
 
 toc: true

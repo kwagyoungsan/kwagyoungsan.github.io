@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 큐(Queue)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Queue, Data Structure]
 
 toc: true

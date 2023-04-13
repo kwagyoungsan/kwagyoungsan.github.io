@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 연결 리스트(Linked List)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Linked List, Data Structure]
 
 toc: true

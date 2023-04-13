@@ -2,9 +2,8 @@
 title:  "[Vocabulary] 개인 공부 중 모르는 영어 단어 2"
 
 categories:
-
 - Vocabulary
-  tags:
+tags:
 - [Programming, Vocabulary]
 
 toc: true

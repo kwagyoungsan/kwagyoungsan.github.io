@@ -2,9 +2,8 @@
 title:  "[OS] CPU Scheduling이란?"
 
 categories:
-
 - OS
-  tags:
+tags:
 - [CPU Scheduling, OS]
 
 toc: true

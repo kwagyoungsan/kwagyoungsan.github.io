@@ -2,9 +2,8 @@
 title:  "[Design Pattern] 안드로이드 디자인 패턴을 알아보자 ! (MVC, MVP, MVVM)"
 
 categories:
-
 - Android Design Pattern
-  tags:
+tags:
 - [MVVM ,MVP , MVC, Android Design Pattern]
 
 toc: true

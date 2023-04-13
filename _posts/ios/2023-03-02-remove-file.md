@@ -2,9 +2,8 @@
 title:  "[iOS] Move to Trash 와 Remove Reference 의 의미"
 
 categories:
-
 - iOS
-  tags:
+tags:
 - [iOS, TIL]
 
 toc: true

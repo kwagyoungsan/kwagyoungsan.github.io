@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 해시 테이블(Hash Table)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Hash Table, Data Structure]
 
 toc: true

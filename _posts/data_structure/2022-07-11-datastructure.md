@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 자료구조를 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Array, Linked List, Stack, Queue, Hash Table, Graph, Tree, Heap, Data Structure]
 
 toc: true

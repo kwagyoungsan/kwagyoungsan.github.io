@@ -2,9 +2,8 @@
 title:  "[OS] Synchonize & Deadlock?"
 
 categories:
-
 - OS
-  tags:
+tags:
 - [Synchonize, Deadlock, OS]
 
 toc: true

@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 배열에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Array, Data Structure]
 
 toc: true

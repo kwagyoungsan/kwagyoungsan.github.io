@@ -2,9 +2,8 @@
 title:  "[Android] 안드로이드 운영체제(OS)의 구조"
 
 categories:
-
 - Android OS
-  tags:
+tags:
 - [OS, Android OS]
 
 toc: true

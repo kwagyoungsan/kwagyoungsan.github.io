@@ -2,9 +2,8 @@
 title:  "[Data Sturcture] 트리(Tree)에 대해 알아보자❗️"
 
 categories:
-
 - Data Structure
-  tags:
+tags:
 - [Tree, Data Structure]
 
 toc: true
